@@ -1,0 +1,36 @@
+.header{
+    background-color: rgb(74, 7, 74);
+    border: 20px solid rgb(30, 8, 30);
+    padding: 10px;
+    color: white;
+    border-radius: 6px;
+    text-align: center;
+    height: 23vh;
+}
+
+
+.button{
+    background-color: rgb(64, 1, 64);
+    color: white;
+    margin: 8px;
+    padding: 14px 37px;
+    border-radius: 3px;
+    font-size: 14px;
+
+}
+
+.button:hover{
+    background-color: red;
+    font-size: 15px;
+}
+body{
+    background-image: url(./img/background.jpg);
+    background-size: 100%;
+    background-position-y: -36px;
+}
+div{
+    text-align: center;
+  
+  
+}
+
